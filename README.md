@@ -42,3 +42,5 @@ Note:
 - To create the file requirements.txt run the first command and to read the file in CMD run the second command.
 
 ![note](image-6.png)
+
+help
