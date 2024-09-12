@@ -3,6 +3,9 @@
 - Jhon Carlos Acevedo Mendoza 1151661
 
 # Steps to clone a repository for App EasyCredit
+
+Before we start we are going to create a file called .gitignore in our folder with the files and directories that we do not want to be loaded in our repository.
+![alt text](image-9.png)
    
 1. Clone Your Repository
 - Open a terminal or command prompt.     
